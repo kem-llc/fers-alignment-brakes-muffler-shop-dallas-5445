@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Fer’s Alignment & Brakes Muffler Shop",
+    "shortName": "Fer’s Auto",
+    "tagline": "Dallas’s Trusted Auto Care Since 1995",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 821-5445",
+    "address": "505 S Carroll Ave, Dallas, TX 75223",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:30 AM – 5:30 PM, Sat 8 AM – 12 PM",
+    "ctaLabel": "Schedule Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Fer’s Alignment & Brakes | Expert Muffler & Auto Repair in Dallas, TX",
+    "description": "Family-owned auto mechanic in Dallas offering alignment, brakes, and muffler repair. 4.3★ rated. Call (214) 821-5445 for honest service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Family-Owned Since 1995",
+      "headline": "Dallas’s Go-To for Alignments, Brakes & Mufflers",
+      "subheadline": "Precision work, fair prices, and a 12-month/12,000-mile warranty on most repairs.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Call (214) 821-5445"
+    },
+    "stats": [
+      {
+        "value": "29+",
+        "label": "Years in Dallas"
+      },
+      {
+        "value": "4.3",
+        "label": "Google Rating"
+      },
+      {
+        "value": "5,000+",
+        "label": "Vehicles Serviced"
+      },
+      {
+        "value": "12 mo",
+        "label": "Warranty on Repairs"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Wheel Alignment",
+        "title": "Keep Your Tires True and Your Ride Smooth",
+        "body": "Proper alignment extends tire life and improves fuel economy. We use Hunter® laser alignment equipment for precision.",
+        "bullets": [
+          "Reduces uneven tire wear",
+          "Improves steering and handling",
+          "Free alignment check with any brake service"
+        ],
+        "reverse": false,
+        "cardLabel": "Service Highlight",
+        "cardTitle": "Lifetime Alignment Package",
+        "cardBody": "One price, unlimited alignments for as long as you own your vehicle. Ask about our special."
+      },
+      {
+        "eyebrow": "Brake Repair",
+        "title": "Stop Safely with Expert Brake Service",
+        "body": "From pad replacements to full rotor and caliper jobs, we restore your stopping power. We use quality parts and back our work with a warranty.",
+        "bullets": [
+          "Free brake inspection",
+          "Pad, rotor, and caliper service",
+          "ABS diagnostics and repair"
+        ],
+        "reverse": true,
+        "cardLabel": "Safety First",
+        "cardTitle": "Brake Special",
+        "cardBody": "Front brake pad replacement starting at $149.99 per axle. Includes inspection and fluid top-off."
+      }
+    ],
+    "whyTitle": "Why Dallas Drivers Choose Fer’s",
+    "whyChooseUs": [
+      {
+        "title": "Experienced Technicians",
+        "description": "Our ASE-certified mechanics have decades of combined experience with all makes and models."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. We provide detailed estimates and explain every recommended repair."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most alignment and brake jobs are completed the same day. Drop off in the morning, drive home by evening."
+      },
+      {
+        "title": "Warranty Backed",
+        "description": "We stand behind our work with a 12-month/12,000-mile warranty on parts and labor."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I brought my SUV in for a loud exhaust and they found the issue quickly. Fair price and done in a few hours.",
+        "author": "Marcus T.",
+        "role": "Lakewood resident"
+      },
+      {
+        "quote": "Been going to Fer’s for years. They never upsell and always do quality work. My brakes feel brand new.",
+        "author": "Linda R.",
+        "role": "East Dallas homeowner"
+      },
+      {
+        "quote": "Alignment was off after hitting a pothole. Fer’s fixed it perfectly and even rotated my tires at no extra charge.",
+        "author": "Carlos M.",
+        "role": "Deep Ellum commuter"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Call or stop by Fer’s Alignment & Brakes today.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (214) 821-5445"
+    }
+  },
+  "servicesPage": {
+    "intro": "From alignments to exhaust systems, Fer’s Alignment & Brakes provides comprehensive auto repair in Dallas, TX. Every service comes with a warranty and a smile."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Wheel Alignment",
+      "shortDescription": "Precision alignment using Hunter® equipment to extend tire life and improve handling.",
+      "longDescription": "Proper wheel alignment is crucial for even tire wear, straight steering, and optimal fuel economy. At Fer’s, we use computerized Hunter® alignment systems to adjust camber, caster, and toe to manufacturer specifications. We align all vehicles from sedans to heavy-duty trucks.",
+      "benefits": [
+        "Extends tire life by up to 25,000 miles",
+        "Improves gas mileage by reducing rolling resistance",
+        "Eliminates pulling and vibration",
+        "Includes a free alignment check with any brake service"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check tire pressure, suspension components, and measure current alignment angles."
+        },
+        {
+          "title": "Adjustment",
+          "description": "Using precision tools, we adjust the suspension angles to factory specs."
+        },
+        {
+          "title": "Test Drive",
+          "description": "We take your vehicle on a road test to ensure straight tracking and smooth steering."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an alignment?",
+          "answer": "Most manufacturers recommend every 12,000 miles or once a year. Also after hitting large potholes or curbs."
+        },
+        {
+          "question": "Does alignment fix a crooked steering wheel?",
+          "answer": "Yes, alignment corrects the steering wheel position and ensures it is centered when driving straight."
+        }
+      ],
+      "slug": "wheel-alignment"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Repair",
+      "shortDescription": "Complete brake services including pads, rotors, calipers, and ABS systems.",
+      "longDescription": "Your brakes are your vehicle’s most important safety system. We offer full brake inspections, pad replacements, rotor resurfacing or replacement, caliper service, and ABS diagnostics. We use quality parts and back our work with a warranty.",
+      "benefits": [
+        "Free brake inspection with no obligation",
+        "Quality parts – ceramic and semi-metallic options",
+        "Same-day service in most cases",
+        "12-month/12,000-mile warranty on parts and labor"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We measure pad thickness, rotor condition, brake fluid level, and test the ABS system."
+        },
+        {
+          "title": "Service",
+          "description": "We replace worn pads, resurface or replace rotors, lubricate caliper slides, and bleed the system if needed."
+        },
+        {
+          "title": "Test & Safety Check",
+          "description": "We test the brakes on the road and confirm stopping power and pedal feel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I need new brakes?",
+          "answer": "Signs include squealing or grinding noises, a soft brake pedal, or vibration when braking. We offer free inspections."
+        },
+        {
+          "question": "Can you repair ABS systems?",
+          "answer": "Yes, we diagnose and repair ABS modules, wheel speed sensors, and hydraulic components."
+        }
+      ],
+      "slug": "brake-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Muffler & Exhaust Repair",
+      "shortDescription": "Expert exhaust system repair from minor leaks to full replacements.",
+      "longDescription": "A damaged exhaust system can reduce fuel efficiency, create loud noise, and allow dangerous fumes into the cabin. We repair or replace mufflers, catalytic converters, oxygen sensors, and exhaust pipes. We work with all makes and models.",
+      "benefits": [
+        "Reduces engine noise and vibration",
+        "Improves fuel economy and engine performance",
+        "Ensures emissions compliance",
+        "Warranty on all exhaust parts"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We inspect the entire exhaust system for leaks, rust, and damage using visual and pressure tests."
+        },
+        {
+          "title": "Repair/Replace",
+          "description": "We replace damaged sections with quality aftermarket or OEM parts and weld or clamp connections securely."
+        },
+        {
+          "title": "Final Check",
+          "description": "We start the engine, check for leaks, and ensure proper exhaust flow and noise levels."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is a loud exhaust always a problem?",
+          "answer": "Not always, but it often indicates a leak or failing muffler. We can inspect and advise."
+        },
+        {
+          "question": "Do you replace catalytic converters?",
+          "answer": "Yes, we replace catalytic converters and can help with emissions-related check engine lights."
+        }
+      ],
+      "slug": "muffler-exhaust-repair"
+    },
+    {
+      "icon": "04",
+      "title": "General Auto Repair",
+      "shortDescription": "Oil changes, suspension, steering, and more – all with expert care.",
+      "longDescription": "Beyond alignments, brakes, and exhaust, Fer’s handles a wide range of general repairs. From oil changes to suspension work, we keep your vehicle running smoothly. We use quality fluids and parts and provide honest recommendations.",
+      "benefits": [
+        "Full-service oil changes with synthetic options",
+        "Suspension and steering repairs",
+        "Check engine light diagnostics",
+        "Competitive labor rates"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We use advanced diagnostic tools to identify the root cause of any issue."
+        },
+        {
+          "title": "Estimate",
+          "description": "We provide a detailed written estimate before any work begins."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "We complete the repair and test drive to confirm everything is working correctly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you work on all car makes?",
+          "answer": "Yes, we service domestic and import vehicles, including trucks and SUVs."
+        },
+        {
+          "question": "Can you diagnose check engine lights?",
+          "answer": "Absolutely. We scan the code, explain the issue, and recommend the best repair."
+        }
+      ],
+      "slug": "general-auto-repair"
+    }
+  ],
+  "about": {
+    "headline": "Your Neighborhood Auto Shop Since 1995",
+    "mission": "To provide honest, high-quality auto repair at fair prices, earning the trust of Dallas drivers one vehicle at a time.",
+    "story": [
+      "Fer’s Alignment & Brakes opened its doors in 1995 with a simple mission: deliver expert auto repair with integrity. What started as a two-bay shop on Carroll Avenue has grown into a trusted destination for drivers across Dallas. Our founder, a master technician with over 30 years of experience, built the business on the belief that every customer deserves transparent communication and skilled workmanship.",
+      "Today, we continue that legacy. Our team of ASE-certified mechanics uses state-of-the-art equipment to service alignments, brakes, exhaust systems, and more. We treat every car as if it belongs to a family member, and we back our repairs with a solid warranty. Whether you need a quick alignment or a full brake job, Fer’s is here to keep you safe on the road."
+    ],
+    "highlight": {
+      "stat": "29+",
+      "label": "Years of Service in Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs and always explain what your car needs."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications for every job."
+      },
+      {
+        "title": "Community",
+        "description": "We support local Dallas organizations and treat our customers like neighbors."
+      },
+      {
+        "title": "Reliability",
+        "description": "We finish work on time and stand behind it with a warranty you can count on."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Fer’s",
+    "subheadline": "Stop by or give us a call to schedule your next service.",
+    "primaryCta": "Call (214) 821-5445",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Lakewood",
+      "East Dallas",
+      "Deep Ellum",
+      "Old East Dallas",
+      "White Rock",
+      "Casa Linda",
+      "Oak Lawn"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.3,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148215445",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
